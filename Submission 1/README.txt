@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1yc3oHjEg3JJZKEx_W3V9H-GAQ10GXygeORINUu-kkU4/edit#slide=id.g60b9d1ceb1598397_0
 
 Paper title:
-On the Development and Practice of AI Technology for Contemporary Popular Music Production
+On the Development and Practice of AI Technology for Contemporary Popular Music Production.
 
 Link to the paper:
 https://transactions.ismir.net/articles/10.5334/tismir.100
